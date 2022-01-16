@@ -35,6 +35,7 @@ public class PacienteTest {
 	private static final String NOMBRE_ARDR = "Andrés Rubio Del Río";
 	private static final String DNI_ARDR = "22334455Y";
 	private static final String TELEFONO_ARDR = "666223344";
+	
 
 	@Test
 	public void constructorNombreValidoDniValidoTelefonoValidoCreaPacienteCorrectamente() {
