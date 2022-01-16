@@ -18,7 +18,6 @@ import org.iesalandalus.programacion.citasclinica.vista.Opciones;
  * IES AL-ÁNDALUS
  * PROGRAMACIÓN
  * Tarea online 4
- * Cadenas de caracteres y arrays
  */
 
 public class MainApp {
